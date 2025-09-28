@@ -10,8 +10,8 @@
 
 ## Requirements
 
-Compatible with **Python ≥ 3.5**.
-[pytest](https://docs.pytest.org/) (only for running unit tests)
+- Compatible with **Python ≥ 3.5**.
+- [pytest](https://docs.pytest.org/) (only for running unit tests)
 
 Install pytest with:
 
